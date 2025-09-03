@@ -7,7 +7,8 @@ I’m **Khairin** — a software developer who loves being creative while coding
 - ⚡ Fun fact: I debug with snacks 🍪
 
 ## 📊 GitHub Stats
-![Khairin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurkhairin&show_icons=true&theme=tokyonight)
+![Khairin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrnbtrsy&show_icons=true&theme=tokyonight)
+
 
 ## 🎲 Random Fun
 ![Jokes](https://readme-jokes.vercel.app/api)
