@@ -28,6 +28,9 @@ I’m **Khairin** — a software developer who loves being creative while coding
 ## 🎲 Random Fun
 ![Jokes](https://readme-jokes.vercel.app/api)
 
+![Profile Views](https://komarev.com/ghpvc/?username=nurkhairin&color=blue)
+
+
 ---
 ✨ *This README is special because it appears on my profile!* ✨
 
