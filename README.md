@@ -18,6 +18,8 @@ I’m **Khairin** — a software developer who loves being creative while coding
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Khairin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khrnbtrsy&show_icons=true&theme=tokyonight)
